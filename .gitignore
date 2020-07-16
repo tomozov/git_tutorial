@@ -1,0 +1,9 @@
+# ignore files
+password.txt
+
+# ignore dirs
+secret_dir/
+
+# ignore *
+# password.*
+# /*/password.*
